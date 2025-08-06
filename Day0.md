@@ -7,6 +7,7 @@ Throughout this course, you will learn the basics of DApp development as well as
 ## Core values
 
 Here're the most important values we want to instill in you:
+
 1. **English-first**: We will use English as the primary language for all course materials and discussions, no matter who you are. The reason is simple: English is the lingua franca of the blockchain world, and we want you to be trained to understand technical concepts in English, even if it might not be your first language.
 1. **Open-source**: All course materials will be open-sourced, and we encourage you to contribute back. This is not just about learning; it's about building a community of developers who can help each other grow.
 1. **Hands-on**: We believe in **learning by doing**. No more passive listening. Each day will include practical milestones to reinforce your understanding of the concepts covered.
@@ -21,8 +22,13 @@ You can skip this section if you already know what's going on, as these are just
 
 ### Goal #1
 
+> [!CAUTION]
+> Again, if you are not familiar with any of the terms below, you MUST use Google or AI to help you understand them. This is a crucial step to ensure you can follow along with the course. **We will NOT explain everything to you.**
+
 1. Create a KYC'ed account at any CEX, and put some money into your account. It could be [Binance](https://binance.com), [Coinbase](https://coinbase.com/), [Upbit](https://upbit.com/), [Bithumb](https://www.bithumb.com/react/), or any other centralized exchange. Once you are successful, you will be able to buy some crypto assets like Bitcoin or Ethereum there.
 
-2. Install a non-custodial wallet as an extension on Chrome. You can use [MetaMask](https://metamask.io/), [Rainbow](https://rainbow.me/), or any other wallet that supports Ethereum and ERC-20 tokens. Make sure to back up your seed phrase securely.
+2. Install a non-custodial wallet as an extension on Chrome. You can use [MetaMask](https://metamask.io/), [Rainbow](https://rainbow.me/), or any other wallet that supports Ethereum and ERC-20 tokens. Create a new seed phrase for an Ethereum account, and make sure to back up your seed phrase securely. And make sure that your computer is secure and free from malware.
 
-> **Note**: Again, if you are not familiar with any of the terms above, you MUST use Google or AI to help you understand them. This is a crucial step to ensure you can follow along with the course. We will NOT explain everything to you.
+3. First, check the minimum withdrawal amount for ETH on the CEX you signed up for. Purchase a little bit of ETH that is greater than the minimum withdrawal amount (e.g., 30 USD worth of ETH), and transfer it to your non-custodial wallet created in step 2. This will be your first interaction with a blockchain.
+
+4. Try to locate the transaction hash of the transfer you made from your CEX account to your non-custodial wallet in step 3.
