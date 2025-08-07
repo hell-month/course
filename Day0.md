@@ -11,8 +11,8 @@ Here're the most important values we want to instill in you:
 1. **English-first**: We will use English as the primary language for all course materials and discussions, no matter who you are. The reason is simple: English is the lingua franca of the blockchain world, and we want you to be trained to understand technical concepts in English, even if it might not be your first language.
 1. **Open-source**: All course materials will be open-sourced, and we encourage you to contribute back. This is not just about learning; it's about building a community of developers who can help each other grow.
 1. **Hands-on**: We believe in **learning by doing**. No more passive listening. Each day will include practical milestones to reinforce your understanding of the concepts covered.
-1. **AI assisted**: You can always search on Google or ChatGPT. In most cases, they will give you the right answer to each step you need to take. This leads to our next point, which is **Goal-oriented**.
-1. **Goal-oriented**: We won't provide you with step-by-step instructions or straightforward solutions. Instead, **we will give you the goal and let you figure out the details.** This is to help you develop problem-solving skills and become a more independent developer. Achieving any goals should be a no-brainer if you can Google it, right?
+1. **AI-assisted**: You can always search on Google or ChatGPT. In most cases, they will give you the right answer to each step you need to take. This leads to our next point, which is **Goal-oriented**.
+1. **Goal-oriented**: **_The primary problem when it comes to learning is that you don't even know what you don't know_**. But we won't provide you with step-by-step instructions or straightforward solutions. Instead, **we will give you the goal and let you figure out the details.** This is to help you develop problem-solving skills and become a more independent developer. Achieving any goals should be a no-brainer if you can Google it, right? So, we will provide you with the goals, and you can use Google or AI to find the solutions.
 
 ## Prerequisites
 
@@ -32,6 +32,9 @@ You can skip this section if you already know what's going on, as these are just
 
 1. First, check the minimum withdrawal amount for ETH on the CEX you signed up for. Purchase a little bit of ETH that is greater than the minimum withdrawal amount (e.g., 30 USD worth of ETH), and transfer it to your non-custodial wallet **via Ethereum network** created in step 2. This will be your first interaction with a blockchain.
 1. Locate the transaction hash of the transfer you made from your CEX account to your non-custodial wallet in step 3 and **save it for the milestone review**.
+
+> [!NOTE]
+> Alternatively, if you already have a prefunded non-custodial wallet, you can skip steps 1-3 and just provide the transaction hash of the last deposit of ETH you made to your non-custodial wallet.
 
 ### Goal #2
 
@@ -72,4 +75,28 @@ You can skip this section if you already know what's going on, as these are just
 
 ### Goal #3
 
+> [!NOTE]
+> The deposit is fully refundable as long as all milestones are achieved. In case you fail to achieve some milestones, a part of your deposit may be used to cover the operational costs of maintaining the community (e.g., hosting a side event at KBW 2025, etc.).
+
+1. Purchase 73 USDT from your CEX account and transfer it to your non-custodial wallet on Ethereum network. This will be used as a deposit for the course.
+1. Make sure your non-custodial wallet has enough Ether to cover the gas fees for the deposit and withdraw transaction later. Typically speaking, less than 10 USD worth of Ether would be enough.
+1. At this point, your non-custodial wallet should have 73 USDT and some Ether. You can check your wallet balance on [Etherscan](https://etherscan.io/) by entering your wallet address in the search bar.
+1. Navigate to the [security deposit DApp of Hell Month](https://deposit.hellmonth.org/).
+1. Connect your wallet, approve the security deposit contract to spend your USDT, and deposit 73 USDT to the contract. This will be your security deposit for the course.
+1. Confirm that you have successfully deposited 73 USDT by checking the transaction on Etherscan. You should see a transaction with the `Deposit` event emitted from the contract. **Save the transaction hash of the deposit for the milestone review**.
+
+> [!NOTE]
+> Alternatively, if you already somehow had 73 USDT in your non-custodial wallet, you can skip steps 1-5 and just provide the transaction hash of the last deposit of USDT you made to your non-custodial wallet.
+
+### Goal #4
+
+1. If you are new to Solidity, complete the [Solidity tutorial on CryptoZombies](https://cryptozombies.io/en/solidity). While no milestone review is required for this goal, it's likely that you won't be able to adjust to the course without completing this tutorial if you are totally new to Solidity. If you are already familiar with Solidity, you can skip this goal.
+
 ## Milestone Review
+
+Submit the following information altogether as an answer to the question "Please provide a correct answer to milestone review of Day 0." on [Luma Signup page](https://lu.ma/y8eoof0m):
+
+1. The transaction hash from Goal #1.
+1. The output of the `uname -a` and `date` commands from Goal #2.
+1. The output of the version commands for Node.js, Git, Docker, and Docker Compose from Goal #2.
+1. The transaction hash of the deposit transaction from Goal #3.
