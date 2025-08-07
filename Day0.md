@@ -33,6 +33,9 @@ You can skip this section if you already know what's going on, as these are just
 1. First, check the minimum withdrawal amount for ETH on the CEX you signed up for. Purchase a little bit of ETH that is greater than the minimum withdrawal amount (e.g., 30 USD worth of ETH), and transfer it to your non-custodial wallet **via Ethereum network** created in step 2. This will be your first interaction with a blockchain.
 1. Locate the transaction hash of the transfer you made from your CEX account to your non-custodial wallet in step 3 and **save it for the milestone review**.
 
+> [!NOTE]
+> Alternatively, if you already have a prefunded non-custodial wallet, you can skip steps 1-3 and just provide the transaction hash of the last deposit of ETH you made to your non-custodial wallet.
+
 ### Goal #2
 
 > [!CAUTION]
@@ -82,9 +85,18 @@ You can skip this section if you already know what's going on, as these are just
 1. Connect your wallet, approve the security deposit contract to spend your USDT, and deposit 73 USDT to the contract. This will be your security deposit for the course.
 1. Confirm that you have successfully deposited 73 USDT by checking the transaction on Etherscan. You should see a transaction with the `Deposit` event emitted from the contract. **Save the transaction hash of the deposit for the milestone review**.
 
+> [!NOTE]
+> Alternatively, if you already somehow had 73 USDT in your non-custodial wallet, you can skip steps 1-5 and just provide the transaction hash of the last deposit of USDT you made to your non-custodial wallet.
+
+### Goal #4
+
+1. If you are new to Solidity, complete the [Solidity tutorial on CryptoZombies](https://cryptozombies.io/en/solidity). While no milestone review is required for this goal, it's likely that you won't be able to adjust to the course without completing this tutorial if you are totally new to Solidity. If you are already familiar with Solidity, you can skip this goal.
+
 ## Milestone Review
 
-1. Submit the transaction hash from Goal #1.
-1. Submit the output of the `uname -a` and `date` commands from Goal #2.
-1. Submit the output of the version commands for Node.js, Git, Docker, and Docker Compose from Goal #2.
-1. Submit the transaction hash of the deposit transaction from Goal #3.
+Submit the following information altogether as an answer to the question "Please provide a correct answer to milestone review of Day 0." on [Luma Signup page](https://lu.ma/y8eoof0m):
+
+1. The transaction hash from Goal #1.
+1. The output of the `uname -a` and `date` commands from Goal #2.
+1. The output of the version commands for Node.js, Git, Docker, and Docker Compose from Goal #2.
+1. The transaction hash of the deposit transaction from Goal #3.
