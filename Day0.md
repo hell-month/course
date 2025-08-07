@@ -72,4 +72,19 @@ You can skip this section if you already know what's going on, as these are just
 
 ### Goal #3
 
+> [!NOTE]
+> The deposit is fully refundable as long as all milestones are achieved. In case you fail to achieve some milestones, a part of your deposit may be used to cover the operational costs of maintaining the community (e.g., hosting a side event at KBW 2025, etc.).
+
+1. Purchase 73 USDT from your CEX account and transfer it to your non-custodial wallet on Ethereum network. This will be used as a deposit for the course.
+1. Make sure your non-custodial wallet has enough Ether to cover the gas fees for the deposit and withdraw transaction later. Typically speaking, less than 10 USD worth of Ether would be enough.
+1. At this point, your non-custodial wallet should have 73 USDT and some Ether. You can check your wallet balance on [Etherscan](https://etherscan.io/) by entering your wallet address in the search bar.
+1. Navigate to the [security deposit DApp of Hell Month](https://deposit.hellmonth.org/).
+1. Connect your wallet, approve the security deposit contract to spend your USDT, and deposit 73 USDT to the contract. This will be your security deposit for the course.
+1. Confirm that you have successfully deposited 73 USDT by checking the transaction on Etherscan. You should see a transaction with the `Deposit` event emitted from the contract. **Save the transaction hash of the deposit for the milestone review**.
+
 ## Milestone Review
+
+1. Submit the transaction hash from Goal #1.
+1. Submit the output of the `uname -a` and `date` commands from Goal #2.
+1. Submit the output of the version commands for Node.js, Git, Docker, and Docker Compose from Goal #2.
+1. Submit the transaction hash of the deposit transaction from Goal #3.
