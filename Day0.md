@@ -11,7 +11,7 @@ Here're the most important values we want to instill in you:
 1. **English-first**: We will use English as the primary language for all course materials and discussions, no matter who you are. The reason is simple: English is the lingua franca of the blockchain world, and we want you to be trained to understand technical concepts in English, even if it might not be your first language.
 1. **Open-source**: All course materials will be open-sourced, and we encourage you to contribute back. This is not just about learning; it's about building a community of developers who can help each other grow.
 1. **Hands-on**: We believe in **learning by doing**. No more passive listening. Each day will include practical milestones to reinforce your understanding of the concepts covered.
-1. **AI assisted**: You can always search on Google or ChatGPT. In most cases, they will give you the right answer to each step you need to take. This leads to our next point, which is **Goal-oriented**.
+1. **AI-assisted**: You can always search on Google or ChatGPT. In most cases, they will give you the right answer to each step you need to take. This leads to our next point, which is **Goal-oriented**.
 1. **Goal-oriented**: **_The primary problem when it comes to learning is that you don't even know what you don't know_**. But we won't provide you with step-by-step instructions or straightforward solutions. Instead, **we will give you the goal and let you figure out the details.** This is to help you develop problem-solving skills and become a more independent developer. Achieving any goals should be a no-brainer if you can Google it, right? So, we will provide you with the goals, and you can use Google or AI to find the solutions.
 
 ## Prerequisites
