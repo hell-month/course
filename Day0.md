@@ -12,7 +12,9 @@ Here're the most important values we want to instill in you:
 1. **Open-source**: All course materials will be open-sourced, and we encourage you to contribute back. This is not just about learning; it's about building a community of developers who can help each other grow.
 1. **Hands-on**: We believe in **learning by doing**. No more passive listening. Each day will include practical milestones to reinforce your understanding of the concepts covered.
 1. **AI-assisted**: You can always search on Google or ChatGPT. In most cases, they will give you the right answer to each step you need to take. This leads to our next point, which is **Goal-oriented**.
-1. **Goal-oriented**: **_The primary problem when it comes to learning is that you don't even know what you don't know_**. But we won't provide you with step-by-step instructions or straightforward solutions. Instead, **we will give you the goal and let you figure out the details.** This is to help you develop problem-solving skills and become a more independent developer. Achieving any goals should be a no-brainer if you can Google it, right? So, we will provide you with the goals, and you can use Google or AI to find the solutions.
+1. **Goal-oriented**: **_The primary problem when it comes to learning is that you don't even know what you don't know_**. But we won't provide you with step-by-step instructions or straightforward solutions. Instead, **we will give you the goal and let you figure out the details.** This is to help you develop problem-solving skills and become a more independent developer. Achieving any goals should be a no-brainer if you can Google it, right? So, we will provide you with the goals, and you can use Google or AI any other resources like Youtube to find the solutions.
+1. **Trying harder till success**: No one succeeds on the first try. But there always is a way to succeed if you try harder. If you keep failing, just try harder.
+   You shouldn't give up so easily, because this is what engineering looks like in practice.
 
 ## Prerequisites
 
@@ -75,8 +77,17 @@ You can skip this section if you already know what's going on, as these are just
 
 ### Goal #3
 
+1. If you are new to Solidity, complete the [Solidity tutorial on CryptoZombies](https://cryptozombies.io/en/solidity).
+1. If you are new to Git or just using terminal, complete [GitExercises](https://gitexercises.fracz.com/). It's not mandatory to complete all [23 exercises](https://gitexercises.fracz.com/exercise/master), but completing some of them will help you get familiar with Git and some other commands on the terminal.
+1. If you are so lost trying to work on the previous goal on Git, start from [GitImmersion](https://gitimmersion.com/lab_01.html).
+
 > [!NOTE]
-> The deposit is fully refundable as long as all milestones are achieved. In case you fail to achieve some milestones, a part of your deposit may be used to cover the operational costs of maintaining the community (e.g., hosting a side event at KBW 2025, etc.).
+> If you are already familiar with Solidity, Git and terminal, you can skip this goal. While no milestone review is required for this goal, it's likely that you won't be able to adjust to the course without completing this tutorial if you are totally new to these concepts. Take this opportunity to familiarize yourself with the tools and concepts before the course starts.
+
+### Goal #4
+
+> [!NOTE]
+> The deposit is fully refundable by the end of the course as long as all milestones are achieved. In case you fail to achieve some milestones, a part of your deposit may be used to cover the operational costs of maintaining the community (e.g., hosting a side event at KBW 2025, etc.).
 
 1. Purchase 73 USDT from your CEX account and transfer it to your non-custodial wallet on Ethereum network. This will be used as a deposit for the course.
 1. Make sure your non-custodial wallet has enough Ether to cover the gas fees for the deposit and withdraw transaction later. Typically speaking, less than 10 USD worth of Ether would be enough.
@@ -86,11 +97,7 @@ You can skip this section if you already know what's going on, as these are just
 1. Confirm that you have successfully deposited 73 USDT by checking the transaction on Etherscan. You should see a transaction with the `Deposit` event emitted from the contract. **Save the transaction hash of the deposit for the milestone review**.
 
 > [!NOTE]
-> Alternatively, if you already somehow had 73 USDT in your non-custodial wallet, you can skip steps 1-5 and just provide the transaction hash of the last deposit of USDT you made to your non-custodial wallet.
-
-### Goal #4
-
-1. If you are new to Solidity, complete the [Solidity tutorial on CryptoZombies](https://cryptozombies.io/en/solidity). While no milestone review is required for this goal, it's likely that you won't be able to adjust to the course without completing this tutorial if you are totally new to Solidity. If you are already familiar with Solidity, you can skip this goal.
+> Alternatively, if you already somehow had 73 USDT in your non-custodial wallet, you can skip steps 1-3 and just provide the transaction hash of the last deposit of USDT you made to your non-custodial wallet.
 
 ## Milestone Review
 
@@ -99,4 +106,6 @@ Submit the following information altogether as an answer to the question "Please
 1. The transaction hash from Goal #1.
 1. The output of the `uname -a` and `date` commands from Goal #2.
 1. The output of the version commands for Node.js, Git, Docker, and Docker Compose from Goal #2.
-1. The transaction hash of the deposit transaction from Goal #3.
+1. The transaction hash of the deposit transaction from Goal #4.
+
+**Lastly, make sure you sign up for the course on Luma with the same wallet address you used for the deposit. This is crucial for us to verify your participation.**
