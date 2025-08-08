@@ -44,7 +44,7 @@ You can skip this section if you already know what's going on, as these are just
 > Again, if you are not familiar with any of the terms below, you MUST use Google or AI to help you understand them. This is a crucial step to ensure you can follow along with the course. **We will NOT explain everything to you.**
 
 1. This course is primarily designed for students on Linux or MacOS. If you are using Windows, you must install [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/install) and use Ubuntu as your Linux distribution. This will allow you to run Linux commands and tools on your Windows machine.
-1. Once you're able to access Linux or MacoS, open your terminal and run the following command:
+1. Once you're able to access Linux or MacOS, open your terminal and run the following command:
 
    ```bash
    uname -a
@@ -68,6 +68,7 @@ You can skip this section if you already know what's going on, as these are just
 
    ```bash
    node -v
+   nvm --version
    git --version
    docker --version
    docker compose version
@@ -105,7 +106,7 @@ Submit the following information altogether as an answer to the question "Please
 
 1. The transaction hash from Goal #1.
 1. The output of the `uname -a` and `date` commands from Goal #2.
-1. The output of the version commands for Node.js, Git, Docker, and Docker Compose from Goal #2.
+1. The output of the version commands for Node.js, NVM, Git, Docker, and Docker Compose from Goal #2.
 1. The transaction hash of the deposit transaction from Goal #4.
 
 **Lastly, make sure you sign up for the course on Luma with the same wallet address you used for the deposit. This is crucial for us to verify your participation.**
