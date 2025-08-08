@@ -113,11 +113,23 @@ You can skip this section if you already know what's going on, as these are just
 > [!IMPORTANT]
 > If you still haven't joined [Hell Month Discord server](https://discord.gg/9XKRaBy5J7), please do so now, as the course will be conducted primarily on Discord.
 
-Submit the following information altogether as an answer to the question "Please provide a correct answer to milestone review of Day 0." on [Luma Signup page](https://lu.ma/y8eoof0m):
+Navigate to the [Luma Signup page](https://lu.ma/y8eoof0m) and click on the "Request to join" button:
+
+![luma-request-to-join.png](./luma-request-to-join.png)
+
+**Then, fill out the form**:
+
+![luma-form.png](./luma-form.png)
+
+Make sure you sign up for [the course on Luma](https://lu.ma/y8eoof0m) with the same wallet address you used for the deposit. This is crucial for us to verify your participation.
+
+Then, submit the following information altogether as an answer to the question "Please provide a correct answer to milestone review of Day 0." on [Luma Signup page](https://lu.ma/y8eoof0m):
 
 1. The transaction hash from Goal #1.
 1. The output of the `uname -a` and `date` commands from Goal #2.
 1. The output of the version commands for Node.js, NVM, Git, Docker, and Docker Compose from Goal #2.
 1. The transaction hash of the deposit transaction from Goal #5.
 
-**Lastly, make sure you sign up for [the course on Luma](https://lu.ma/y8eoof0m) with the same wallet address you used for the deposit. This is crucial for us to verify your participation.**
+Lastly, provide your GitHub username and Discord username in the form.
+
+You will get an email notification from Luma once your request to join is approved. If you don't receive it within 24 hours, please reach out to us on Discord.
