@@ -22,6 +22,9 @@ Since this course is designed for anyone regardless of their background, we want
 
 You can skip this section if you already know what's going on, as these are just the basics.
 
+> [!IMPORTANT]
+> Before anything, you can join [Hell Month Discord server](https://discord.gg/9XKRaBy5J7) to get help from the community and ask questions in the waiting room, even before completing Day 0.
+
 ### Goal #1
 
 > [!CAUTION]
@@ -87,6 +90,11 @@ You can skip this section if you already know what's going on, as these are just
 
 ### Goal #4
 
+1. Create a new account on [Github](https://github.com) if you don't have it yet.
+1. Create a new account on [Discord](https://discord.com/) if you don't have it yet and install the desktop app.
+
+### Goal #5
+
 > [!NOTE]
 > The deposit is fully refundable by the end of the course as long as all milestones are achieved. In case you fail to achieve some milestones, a part of your deposit may be used to cover the operational costs of maintaining the community (e.g., hosting a side event at KBW 2025, etc.).
 
@@ -102,11 +110,14 @@ You can skip this section if you already know what's going on, as these are just
 
 ## Milestone Review
 
+> [!IMPORTANT]
+> If you still haven't joined [Hell Month Discord server](https://discord.gg/9XKRaBy5J7), please do so now, as the course will be conducted primarily on Discord.
+
 Submit the following information altogether as an answer to the question "Please provide a correct answer to milestone review of Day 0." on [Luma Signup page](https://lu.ma/y8eoof0m):
 
 1. The transaction hash from Goal #1.
 1. The output of the `uname -a` and `date` commands from Goal #2.
 1. The output of the version commands for Node.js, NVM, Git, Docker, and Docker Compose from Goal #2.
-1. The transaction hash of the deposit transaction from Goal #4.
+1. The transaction hash of the deposit transaction from Goal #5.
 
-**Lastly, make sure you sign up for the course on Luma with the same wallet address you used for the deposit. This is crucial for us to verify your participation.**
+**Lastly, make sure you sign up for [the course on Luma](https://lu.ma/y8eoof0m) with the same wallet address you used for the deposit. This is crucial for us to verify your participation.**
