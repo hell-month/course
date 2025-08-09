@@ -92,6 +92,7 @@ You can skip this section if you already know what's going on, as these are just
 
 1. Create a new account on [Github](https://github.com) if you don't have it yet.
 1. Create a new account on [Discord](https://discord.com/) if you don't have it yet and install the desktop app.
+1. Install [Visual Studio Code](https://code.visualstudio.com/) or [Cursor](https://cursor.com/).
 
 ### Goal #5
 
