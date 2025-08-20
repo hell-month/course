@@ -61,7 +61,7 @@ You can skip this section if you already know what's going on, as these are just
    Wed Aug  6 20:39:15 KST 2025
    ```
 
-1. Install these tools on your system. You can follow the respective installation guides for each tool:
+1. Install these tools on your system (**if you are using Windows, make sure you install these on WSL2, not your Windows system**). You can follow the respective installation guides for each tool:
 
    - [nvm](https://github.com/nvm-sh/nvm)
    - [git](https://github.com/git-guides/install-git)
