@@ -67,7 +67,7 @@ Ask ChatGPT these questions yourself to kickstart your research (feel free to tw
 
 > What's the difference between trading on orderbook and constant product automated market maker?
 
-> Let's talk about constant product automated market maker based on x \* y = k. Say the market initializes with 1 BTC and 1000 USDC. Then tell me the k, and give me an example of how would a trade affect the price of BTC relative to USDC.
+> Let's talk about constant product automated market maker based on x * y = k. Say the market initializes with 1 BTC and 1000 USDC. Then tell me the k, and give me an example of how would a trade affect the price of BTC relative to USDC.
 
 > On Uniswap v2, does k actually stay constant all the time? Or are there conditions on which it changes? Why?
 
@@ -89,7 +89,10 @@ Ask ChatGPT these questions yourself to kickstart your research (feel free to tw
 
 ---
 
-# Assignment 1A: write and deploy your first x \* y = k contract
+# Assignment 1A: write and deploy your first x * y = k contract
+
+1. Create another EVM non-custodial wallet for testing.
+2. We'll use [Flare Testnet](https://testnet.flarescan.com/) to deploy contracts due to the ease of getting testnet tokens. Go to [the faucet](https://faucet.flare.network/coston2) and input your EVM wallet address to get  C2FLR testnet token.
 
 ---
 
@@ -105,3 +108,5 @@ Here's the detailed requirement of your local development environment.
 ---
 
 # Submission
+
+- 
