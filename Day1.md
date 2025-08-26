@@ -13,8 +13,32 @@ marp: true
 - You can cheat. Million ways to cheat, few ways to learn properly
 
 ---
+<style scoped>
+section {
+  font-size: 17px;
+}
+</style>
 
 # Course outline
+Week 1
+- Aug 26 (Tues), Day 1: Intro to constant product automated market maker
+- Aug 29 (Fri), Day 2: End-to-end local development environment
+
+Week 2
+- Sept 2 (Tues), Day 3: Additional features to CPAMM
+- Sept 5 (Fri), Day 4: Uniswap V2 core and router contracts
+
+Week 3
+- Sept 9 (Tues), Day 5: Vibecoding CPAMM Frontend
+- Sept 12 (Fri), Day 6: CPAMM Subgraph
+
+Week 4
+- Sept 16 (Tues), Day 7: Deploying Uniswap V2 end-to-end
+- Sept 19 (Fri), KBW Side event
+- Sept 20 (Sat), Day 8: Recap
+
+Week 5
+- 23:59 Sept 26 (Fri) KST, All assignments due
 
 ---
 
@@ -83,12 +107,6 @@ Let $x = 1000$ and $y = 1$. Then $k = 1 \times 1000$
 Alice wants to pay 1000 USDC to get BTC. How much BTC can she get?
 
 ---
-
-<!-- <style scoped>
-section {
-  font-size: 20px;
-}
-</style> -->
 
 # CPAMM Example (cont.)
 
