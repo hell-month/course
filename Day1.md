@@ -6,6 +6,18 @@ marp: true
 
 ---
 
+# Learn to learn
+
+- Ultimate goal of learning is to go independent
+- Use the divide and conquer method if things look to big
+- You can cheat. Million ways to cheat, few ways to learn properly
+
+---
+
+# Course outline
+
+---
+
 # Problem
 
 ![bg right](orderbook.png)
@@ -105,6 +117,15 @@ Alice will get 0.5 BTC in return for 1000 USDC payment
 Effective price = $\frac{1000 \text{ USDC}}{0.5 \text{ BTC}} = 2000 \text{ USDC}$
 
 New market: $x' = 2000, y' = 0.5$
+
+---
+
+# CPAMM Graph
+
+- A tokens spent = 1000 USDC
+- B tokens gained = 0.5 BTC
+
+![height:11cm](./cpammgraph.png)
 
 ---
 

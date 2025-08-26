@@ -35,21 +35,21 @@ Install [marp VS Code extension](https://marketplace.visualstudio.com/items?item
 - The course aims to cater beginner/advanced levels at the same time. At times, you will see two different tracks catered for either group.
 
 Week 1
-- Aug 26 (Tues), Day 1
-- Aug 29 (Fri), Day 2
+- Aug 26 (Tues), Day 1: Intro to constant product automated market maker
+- Aug 29 (Fri), Day 2: End-to-end local development environment
 
 Week 2
-- Sept 2 (Tues), Day 3
-- Sept 5 (Fri), Day 4
+- Sept 2 (Tues), Day 3: Additional features to CPAMM
+- Sept 5 (Fri), Day 4: Uniswap V2 core and router contracts
 
 Week 3
-- Sept 9 (Tues), Day 5
-- Sept 12 (Fri), Day 6
+- Sept 9 (Tues), Day 5: Vibecoding CPAMM Frontend
+- Sept 12 (Fri), Day 6: CPAMM Subgraph
 
 Week 4
-- Sept 16 (Tues), Day 7
+- Sept 16 (Tues), Day 7: Deploying Uniswap V2 end-to-end
 - Sept 19 (Fri), KBW Side event
-- Sept 20 (Sat), Day 8
+- Sept 20 (Sat), Day 8: Recap
 
 Week 5
 - 23:59 Sept 26 (Fri) KST, All assignments due
