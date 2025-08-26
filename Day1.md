@@ -124,7 +124,7 @@ Ask ChatGPT these questions yourself to kickstart your own study (feel free to t
 
 1. Use the EVM non-custodial wallet that you used for the Hell Month security pool deposit for the next steps.
 1. We'll use [Flare Testnet](https://testnet.flarescan.com/) to deploy contracts due to the ease of getting testnet tokens. Go to [the faucet](https://faucet.flare.network/coston2) and input your EVM wallet address to get C2FLR testnet token.
-1. Fork [`https://github.com/hell-month/cohort-1-assignments`](https://github.com/hell-month/cohort-1-assignments) and `git clone` the forked repository to your own computer, and start working on `1a` folder.
+1. Fork [`https://github.com/hell-month/cohort-1-assignments-public`](https://github.com/hell-month/cohort-1-assignments-public) and `git clone` the forked repository to your own computer, and start working on `1a` folder.
 1. Further instructions are on README.md and the code
 
 ---
@@ -137,7 +137,8 @@ Here's the detailed requirement of your local development environment.
 - Access Blockscout on localhost
 - Access Geth on localhost
 - Access deployed smart contracts from Assignment 1
-- Materials are at `1b` folder of https://github.com/hell-month/cohort-1-assignments.
+- And more..
+- Materials are at `1b` folder of https://github.com/hell-month/cohort-1-assignments-public.
 
 ---
 

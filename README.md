@@ -2,9 +2,12 @@
 
 This is the Hell Month course.
 
+Install [marp VS Code extension](https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode) to render the course materials.
+
 ## Course materials
 
 - [Day 0](./Day0.md)
+- [Day 1](./Day1.md)
 
 ## Course structure
 
@@ -32,17 +35,21 @@ This is the Hell Month course.
 - The course aims to cater beginner/advanced levels at the same time. At times, you will see two different tracks catered for either group.
 
 Week 1
-
 - Aug 26 (Tues), Day 1
 - Aug 29 (Fri), Day 2
-  Week 2
+
+Week 2
 - Sept 2 (Tues), Day 3
 - Sept 5 (Fri), Day 4
-  Week 3
+
+Week 3
 - Sept 9 (Tues), Day 5
 - Sept 12 (Fri), Day 6
-  Week 4
+
+Week 4
 - Sept 16 (Tues), Day 7
-- Sept 19 (Fri), Day 8
-  Week 5
-- KBW Side event (TBD)
+- Sept 19 (Fri), KBW Side event
+- Sept 20 (Sat), Day 8
+
+Week 5
+- 23:59 Sept 26 (Fri) KST, All assignments due
