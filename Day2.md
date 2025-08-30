@@ -51,7 +51,7 @@ marp: true
 
 # Local environment
 
-- **nginx**: web server & reverse-proxy
+- **caddy**: web server & reverse-proxy
 - **ngrok**: tunnel
 - **Smart contracts deployment**
 - **EVM node (geth)**: blockchain
