@@ -41,6 +41,14 @@ marp: true
 
 ---
 
+# Why Docker?
+
+- Reproducibility
+- Consistency
+- Isolation
+
+---
+
 # Local environment
 
 - **nginx**: web server & reverse-proxy
@@ -53,6 +61,19 @@ marp: true
 - DApp backend
 
 ---
+
+# AI Guiding questions
+
+Ask ChatGPT these questions yourself to kickstart your own study (feel free to tweak these questions and ask follow-up questions):
+
+> Under what circumstances would it be sensible to use dev environment vs local environment for smart contracts development?
+
+> What methods other than docker compose can I use to create a local smart contract development environment?
+
+> Why does it make sense to use Docker for local development environment instead of running everything directly on my local computer?
+
+---
+
 <style scoped>
 section {
   font-size: 27px;
