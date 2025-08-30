@@ -74,6 +74,16 @@ Ask ChatGPT these questions yourself to kickstart your own study (feel free to t
 
 ---
 
+# Getting started on Assignment 1B together
+
+1. ngrok
+1. reverse proxy
+1. EVM node (geth)
+1. Smart contracts deployer
+1. Geth initialization script (optional)
+
+---
+
 <style scoped>
 section {
   font-size: 27px;
