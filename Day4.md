@@ -172,6 +172,10 @@ This assignment is about adding more features to Assignment 1A under `2` folder.
 
 All forge tests must be passing.
 
-Submit `MiniAMM` and `MiniAMMFactory` deployment address on Flare Coston2 network on the **Assignment 2 tab** on https://docs.google.com/spreadsheets/d/1LtR6zEHqmUgXdRn0NSkm2pmDreL8w3GBOMDGs7vVUGE/edit?gid=880577982#gid=880577982
+Deploy `MiniAMMFactory` first.
+Then, deploy two MockERC20 tokens, and use the `MiniAMMFactory` contract to deploy a `MiniAMM` contract for the two tokens.
+All these should be written in `Factory.s.sol` under `script/` folder.
+
+Use Flare Coston2 network and fill the contract addresses the **Assignment 2 tab** on https://docs.google.com/spreadsheets/d/1LtR6zEHqmUgXdRn0NSkm2pmDreL8w3GBOMDGs7vVUGE/edit?gid=880577982#gid=880577982
 
 Deadline: 23:59 KST, Sept 15 (Mon)
