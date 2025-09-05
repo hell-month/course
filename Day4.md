@@ -127,7 +127,7 @@ USDC-ETH, DAI-ETH, USDT-ETH, USDC-DAI, ...
 
 Solution: 'factory' contract
 - Store information about all pairs
-- Create new pairs
+- Create new pair contracts
 
 ---
 
