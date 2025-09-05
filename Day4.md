@@ -167,7 +167,7 @@ section {
 This assignment is about adding more features to Assignment 1A under `2` folder. Implement:
 - LP Token
 - Remove liquidity
-- Fees
+- Fees (no protocol fee, just swap fee only)
 - Factory contract
 
 All forge tests must be passing.
