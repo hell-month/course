@@ -119,8 +119,9 @@ npm create cloudflare@latest -- 3 --framework=next
 
 ## Smart contract requirements
 
-- Deploy the contract from A2
-- Deploy a new `MiniAMM` contract from `MiniAMMFactory` by calling `createPair` function in `Factory.s.sol` script and remember the address of the deployed `MiniAMM` contract as well as the two `MockERC20` tokens
+- Deploy the contract from A2 **again**
+- This time, deploy a new `MiniAMM` contract from `MiniAMMFactory` by calling `createPair` function in `Factory.s.sol` script and remember the address of the deployed `MiniAMM` contract as well as the two `MockERC20` tokens
+- Use Flare Coston 2 testnet
 
 ---
 <style scoped>
@@ -151,7 +152,7 @@ section {
 
 # FE example
 
-https://4b-example.pages.dev/
+https://3.joelmun.workers.dev
 
 Try to mimic the functionality as much as possible (design doesn't have to be exactly the same)
 
