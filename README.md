@@ -52,4 +52,4 @@ Week 4
 - Sept 20 (Sat), Day 8: Recap
 
 Week 5
-- 23:59 Sept 26 (Fri) KST, All assignments due
+- 23:59 Sept 30 (Tues) KST, All assignments due
