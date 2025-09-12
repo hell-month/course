@@ -21,6 +21,7 @@ Vibecoding the DApp frontend
 
 # React + Typescript + Next.js
 
+- npm: synonymous to `forge` for Solidity. Node package manager/automation tool for JavaScript/TypeScript
 - React: UI library
 - Typescript: language that adds types to JavaScript
 - Next.js: React framework for building web applications
@@ -101,6 +102,12 @@ Vercel, Netlify, Surge.sh, Github pages
 
 You can use whichever one that works for you
 
+[Read the docs here](https://developers.cloudflare.com/workers/framework-guides/web-apps/nextjs/)
+
+```
+npm create cloudflare@latest -- 3 --framework=next
+```
+
 ---
 
 # Asking AI to generate code for you
@@ -150,12 +157,11 @@ Try to mimic the functionality as much as possible (design doesn't have to be ex
 
 ---
 
-# Assignment 4A
+# Assignment 4B
 
 4A doesn't need to be submitted, but it will be submitted together with 4B.
 4B just adds a subgraph deployment and connects the frontend to the subgraph.
+**4B is the final assignment of Hell Month.**
 
 [Submit the subgraph URL, frontend URL, and contract addresses on Google Sheets](https://docs.google.com/spreadsheets/d/1LtR6zEHqmUgXdRn0NSkm2pmDreL8w3GBOMDGs7vVUGE/edit?gid=62343204#gid=62343204).
 **Deadline: 23:59 Sept 30 (Tues) KST**
-
----
