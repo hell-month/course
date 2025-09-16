@@ -166,3 +166,5 @@ Try to mimic the functionality as much as possible (design doesn't have to be ex
 
 [Submit the subgraph URL, frontend URL, and contract addresses on Google Sheets](https://docs.google.com/spreadsheets/d/1LtR6zEHqmUgXdRn0NSkm2pmDreL8w3GBOMDGs7vVUGE/edit?gid=62343204#gid=62343204).
 **Deadline: 23:59 Sept 30 (Tues) KST**
+
+쓰레기 관리/배출 방법
