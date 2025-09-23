@@ -8,6 +8,12 @@ Install [marp VS Code extension](https://marketplace.visualstudio.com/items?item
 
 - [Day 0](./Day0.md)
 - [Day 1](./Day1.md)
+- [Day 2](./Day2.md)
+- [Day 3](./Day3.md)
+- [Day 4](./Day4.md)
+- [Day 5](./Day5.md)
+- [Day 6](./Day6.md)
+- [Day 7](./Day7.md)
 
 ## Course structure
 
